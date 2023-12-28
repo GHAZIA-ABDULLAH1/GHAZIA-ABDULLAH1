@@ -1,3 +1,4 @@
+![ logo] (https://github.com/GHAZIA-ABDULLAH1/GHAZIA-ABDULLAH1/blob/main/unity.jpg)                                                                                          
 <h1 align="center">Hi 👋, I'm Ghazi Mazhar</h1>
 <h3 align="center">A passionate unity developer from Pakistan</h3>
 <img align= "right" alt ="coding" width = "400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw2OV7CADmzZCf8ShcEvMiFA&ust=1703849089413000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjR1s-CsoMDFQAAAAAdAAAAABAD">
