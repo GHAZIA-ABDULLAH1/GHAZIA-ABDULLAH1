@@ -1,4 +1,4 @@
-![logo](https://github.com/GHAZIA-ABDULLAH1/GHAZIA-ABDULLAH1/blob/main/34.jpg)                                                                                     
+![logo](https://github.com/GHAZIA-ABDULLAH1/GHAZIA-ABDULLAH1/blob/main/Background.png)                                                                                     
 <h1 align="center">Hi 👋, I'm Ghazi Mazhar</h1>
 <h3 align="center">A passionate unity developer from Pakistan</h3>
 <img align= "right" alt ="coding" width = "400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FGYny&psig=AOvVaw1F0x0ZKA6DjcWA28HYgn15&ust=1703858109515000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjzzZ6ksoMDFQAAAAAdAAAAABAD">
