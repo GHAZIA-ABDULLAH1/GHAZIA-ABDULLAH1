@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ghazi Mazhar</h1>
 <h3 align="center">A passionate unity developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw2OV7CADmzZCf8ShcEvMiFA&ust=1703849089413000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjR1s-CsoMDFQAAAAAdAAAAABAD">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FGYny&psig=AOvVaw1F0x0ZKA6DjcWA28HYgn15&ust=1703858109515000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjzzZ6ksoMDFQAAAAAdAAAAABAD">
 - 🌱 I’m currently learning **Programming languages**
 
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~013c5e457ad63bf78e](https://www.upwork.com/freelancers/~013c5e457ad63bf78e)
